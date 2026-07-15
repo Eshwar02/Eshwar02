@@ -1,0 +1,47 @@
+<svg width="640" height="340" viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <style>
+    @keyframes pop {
+      0%   { opacity: 0; transform: translateY(14px) scale(0.96); }
+      60%  { opacity: 1; transform: translateY(-2px) scale(1.01); }
+      100% { opacity: 1; transform: translateY(0)    scale(1); }
+    }
+    @keyframes wave {
+      0%, 60%, 100% { transform: rotate(0deg); }
+      10%, 30%      { transform: rotate(14deg); }
+      20%           { transform: rotate(-8deg); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    .b        { opacity: 0; animation: pop 0.55s cubic-bezier(.2,.9,.3,1.3) forwards; transform-box: fill-box; transform-origin: left center; }
+    .b1 { animation-delay: 0.2s; }  .t1 { animation-delay: 0.35s; }
+    .b2 { animation-delay: 1.0s; }  .t2 { animation-delay: 1.15s; }
+    .b3 { animation-delay: 1.9s; }  .t3 { animation-delay: 2.05s; }
+    .b4 { animation-delay: 2.8s; }  .t4 { animation-delay: 2.95s; }
+    .b5 { animation-delay: 3.7s; }  .t5 { animation-delay: 3.85s; }
+    .hand { animation: wave 2.4s ease-in-out 0.4s infinite; transform-box: fill-box; transform-origin: 70% 70%; }
+    .cursor { animation: blink 1s step-end infinite; }
+    text { fill: #e6edf3; }
+    .link { fill: #4493f8; text-decoration: underline; }
+    .bubble { fill: #21262d; stroke: #30363d; stroke-width: 1; }
+    .accent { fill: #16301e; stroke: #2ea043; stroke-width: 1; }
+  </style>
+
+  <text x="4" y="32" font-size="26" font-weight="700">Hi there</text>
+  <text x="132" y="32" font-size="24" class="hand">👋</text>
+
+  <g class="b b1"><rect class="bubble" x="4" y="56" rx="18" ry="18" width="250" height="44"/></g>
+  <text class="b t1" x="26" y="84" font-size="15">Hi, I'm <tspan font-weight="700" fill="#3fb950">Eshwar</tspan></text>
+
+  <g class="b b2"><rect class="accent" x="4" y="110" rx="18" ry="18" width="480" height="44"/></g>
+  <text class="b t2" x="26" y="138" font-size="15">I build AI-powered dev tools &amp; full-stack apps 🤖</text>
+
+  <g class="b b3"><rect class="bubble" x="4" y="164" rx="18" ry="18" width="440" height="44"/></g>
+  <text class="b t3" x="26" y="192" font-size="15">Into real-time systems and LLM integration ⚡</text>
+
+  <g class="b b4"><rect class="bubble" x="4" y="218" rx="18" ry="18" width="580" height="44"/></g>
+  <text class="b t4" x="26" y="246" font-size="15">Reach me at <tspan class="link">linkedin.com/in/eshwarrr</tspan> or <tspan class="link">@shwxr.02</tspan></text>
+
+  <g class="b b5"><rect class="bubble" x="4" y="272" rx="18" ry="18" width="400" height="44"/></g>
+  <text class="b t5" x="26" y="300" font-size="15">Top repos: <tspan class="link">code-grammerizer</tspan> · <tspan class="link">bearbot</tspan></text>
+
+  <text x="416" y="300" font-size="16" fill="#3fb950" class="cursor" font-weight="700">▋</text>
+</svg>
