@@ -34,68 +34,9 @@
 
 ### 💻 My favorite tools and technologies
 
-<table align="center">
-  <tr>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" /><br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /><br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=dart" height="45" alt="Dart" /><br><sub><b>Dart</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" /><br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" /><br><sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /><br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" /><br><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="Flutter" /><br><sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" /><br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /><br><sub><b>Git</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" /><br><sub><b>Supabase</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" /><br><sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" /><br><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" height="24" /><br><sub><b>Render</b></sub>
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /><br><sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eshwar02/Eshwar02/main/assets/tech-stack.svg" alt="My favorite tools and technologies" width="920" />
+</p>
 
 <p align="center"><b>AI providers</b>&nbsp;
   <img src="https://img.shields.io/badge/-Codestral%20(Mistral)-FA520F?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral" />
