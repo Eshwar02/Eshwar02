@@ -96,16 +96,12 @@ An AI-first stock intelligence workspace — streaming chat with stock-aware con
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshwar02&show_icons=true&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=888780&bg_color=00000000" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar02&layout=compact&hide_border=true&title_color=2EA043&text_color=888780&bg_color=00000000" alt="top langs" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Eshwar02&show_icons=true&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=888780&bg_color=00000000" alt="stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eshwar02&layout=compact&hide_border=true&title_color=2EA043&text_color=888780&bg_color=00000000" alt="top langs" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwar02&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eshwar02&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
 </p>
 
 <!-- Activity graph -->
