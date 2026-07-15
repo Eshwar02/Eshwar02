@@ -1,0 +1,46 @@
+<svg width="774" height="108" viewBox="0 0 774 108" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <style>
+    @keyframes glow { 0%,100% { opacity:.45; } 45%,55% { opacity:1; } }
+    @keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    .pill { animation: glow 3.6s ease-in-out infinite, floaty 3.6s ease-in-out infinite;
+             transform-box: fill-box; transform-origin: center; }
+    .pill rect { filter: drop-shadow(0 0 5px rgba(46,160,67,.5)); }
+    text { font-size: 14px; font-weight: 600; text-anchor: middle; }
+  </style>
+  <g class="pill" style="animation-delay:0.0s">
+    <rect x="44" y="14" width="44" height="34" rx="17" fill="#03599C"/>
+    <text x="66" y="35" fill="#ffffff">C</text>
+  </g>
+  <g class="pill" style="animation-delay:0.13s">
+    <rect x="98" y="14" width="61" height="34" rx="17" fill="#1572B6"/>
+    <text x="129" y="35" fill="#ffffff">CSS</text>
+  </g>
+  <g class="pill" style="animation-delay:0.26s">
+    <rect x="170" y="14" width="70" height="34" rx="17" fill="#0175C2"/>
+    <text x="204" y="35" fill="#ffffff">Dart</text>
+  </g>
+  <g class="pill" style="animation-delay:0.39s">
+    <rect x="250" y="14" width="70" height="34" rx="17" fill="#E34F26"/>
+    <text x="284" y="35" fill="#ffffff">HTML</text>
+  </g>
+  <g class="pill" style="animation-delay:0.52s">
+    <rect x="330" y="14" width="120" height="34" rx="17" fill="#F7DF1E"/>
+    <text x="390" y="35" fill="#000000">JavaScript</text>
+  </g>
+  <g class="pill" style="animation-delay:0.65s">
+    <rect x="460" y="14" width="103" height="34" rx="17" fill="#2b3137" stroke="#30363d" stroke-width="1"/>
+    <text x="511" y="35" fill="#ffffff">Markdown</text>
+  </g>
+  <g class="pill" style="animation-delay:0.78s">
+    <rect x="572" y="14" width="86" height="34" rx="17" fill="#3776AB"/>
+    <text x="616" y="35" fill="#ffffff">Python</text>
+  </g>
+  <g class="pill" style="animation-delay:0.91s">
+    <rect x="668" y="14" width="61" height="34" rx="17" fill="#025E8C"/>
+    <text x="699" y="35" fill="#ffffff">SQL</text>
+  </g>
+  <g class="pill" style="animation-delay:1.04s">
+    <rect x="327" y="60" width="120" height="34" rx="17" fill="#007ACC"/>
+    <text x="387" y="81" fill="#ffffff">TypeScript</text>
+  </g>
+</svg>

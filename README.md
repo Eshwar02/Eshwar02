@@ -44,18 +44,8 @@
   <img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square" alt="Groq" />
 </p>
 
-<sub align="center">📌 <i>Click any language to browse the repos where I use it</i></sub>
-
 <p align="center">
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AEshwar02+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/Eshwar02?tab=repositories"><img src="https://raw.githubusercontent.com/Eshwar02/Eshwar02/main/assets/languages.svg" alt="Languages: C, CSS, Dart, HTML, JavaScript, Markdown, Python, SQL, TypeScript" width="780" /></a>
 </p>
 
 ---
