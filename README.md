@@ -101,7 +101,7 @@ An AI-first stock intelligence workspace — streaming chat with stock-aware con
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwar02&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwar02&hide_border=true&background=00000000&stroke=30363d&ring=2EA043&fire=2EA043&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=2EA043&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
 <!-- Activity graph -->
