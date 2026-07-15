@@ -1,9 +1,6 @@
-<!-- ====================== HEADER WAVE ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F7B1F,100:2ea043&height=180&section=header&text=Dharaneeshwaran%20M&fontColor=ffffff&fontSize=40&desc=Building%20ideas%20into%20reality&descSize=18&descAlignY=68&animation=fadeIn" alt="header" width="100%" />
-
 <!-- ====================== ANIMATED CHAT INTRO ====================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eshwar02/Eshwar02/main/assets/intro-bubbles.svg" alt="Hi there, I'm Eshwar" width="640" />
+  <img src="https://raw.githubusercontent.com/Eshwar02/Eshwar02/main/assets/intro-bubbles.svg" width="640" />
 </p>
 
 <h3 align="center">A builder passionate about AI, real-time systems, and clean UI</h3>
