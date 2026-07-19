@@ -24,10 +24,10 @@
 
 ### 🧭 About me
 
-- 😄 Into **AI code tooling**, real-time collaboration, and LLM-integrated products
-- 🔭 Currently building **code-grammerizer** — AI code review with a live collaborative editor
-- 🌱 Exploring **agentic AI architectures** and offline-first system design
-- 👯 Looking to collaborate on **AI dev-tools** and hackathon builds
+- Into **AI code tooling**, real-time collaboration, and LLM-integrated products
+- Currently building **code-grammerizer** — AI code review with a live collaborative editor
+- Exploring **agentic AI architectures** and offline-first system design
+- Looking to collaborate on **AI dev-tools** and hackathon builds
 - 📍 Based in Chennai · *"Building ideas into reality"*
 
 ---
@@ -36,16 +36,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eshwar02/Eshwar02/main/assets/tech-stack.svg" alt="My favorite tools and technologies" width="920" />
-</p>
-
-<p align="center"><b>AI providers</b>&nbsp;
-  <img src="https://img.shields.io/badge/-Codestral%20(Mistral)-FA520F?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral" />
-  <img src="https://img.shields.io/badge/-Cerebras-000000?style=flat-square" alt="Cerebras" />
-  <img src="https://img.shields.io/badge/-Groq-F55036?style=flat-square" alt="Groq" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Eshwar02?tab=repositories"><img src="https://raw.githubusercontent.com/Eshwar02/Eshwar02/main/assets/languages.svg" alt="Languages: C, CSS, Dart, HTML, JavaScript, Markdown, Python, SQL, TypeScript" width="780" /></a>
 </p>
 
 ---
