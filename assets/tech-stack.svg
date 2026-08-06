@@ -1,4 +1,4 @@
-<svg width="924" height="474" viewBox="0 0 924 474" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+<svg width="924" height="624" viewBox="0 0 924 624" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
   <style>
     @keyframes glow {
       0%, 100% { opacity: .45; }
@@ -18,16 +18,114 @@
     .lbl { fill: #c9d1d9; font-size: 15px; font-weight: 600; text-anchor: middle; }
     .ico { filter: drop-shadow(0 0 5px rgba(46,160,67,.55)); }
   </style>
-  <rect x="0" y="0" width="924" height="474" rx="18" fill="#0d1117"/>
-  <rect x="1" y="1" width="922" height="472" rx="18" fill="none" stroke="#30363d" stroke-width="1"/>
-  <g class="cell" style="animation-delay:0.0s">
+  <rect x="0" y="0" width="924" height="624" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="922" height="622" rx="18" fill="none" stroke="#30363d" stroke-width="1"/>
+  <g class="cell" style="animation-delay:0s">
     <rect class="frame" x="18" y="18" width="138" height="138" rx="14"/>
     <image class="ico" x="57" y="38" width="60" height="60" href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMwMDdBQ0MiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01Ni42MTEyIDEyOC44NDlMNTYuNTI5OSAxMzkuMzMzSDczLjE5MDJIODkuODUwNUw4OS44NTA1IDE4Ni42NzNWMjM0LjAxMkgxMDEuNjM1SDExMy40MTlWMTg2LjY3M0wxMTMuNDE5IDEzOS4zMzNIMTMwLjA3OUgxNDYuNzM5VjEyOS4wNTJDMTQ2LjczOSAxMjMuMzYzIDE0Ni42MTggMTE4LjYwOSAxNDYuNDU1IDExOC40ODdDMTQ2LjMzMyAxMTguMzI1IDEyNi4wNTYgMTE4LjI0MyAxMDEuNDcyIDExOC4yODRMNTYuNzMzMSAxMTguNDA2TDU2LjYxMTIgMTI4Ljg0OVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjA2LjU2NyAxMTguMTA4QzIxMy4wNjggMTE5LjczNCAyMTguMDI2IDEyMi42MTkgMjIyLjU3NyAxMjcuMzMyQzIyNC45MzQgMTI5Ljg1MiAyMjguNDI4IDEzNC40NDQgMjI4LjcxMyAxMzUuNTQxQzIyOC43OTQgMTM1Ljg2NiAyMTcuNjYgMTQzLjM0MyAyMTAuOTE1IDE0Ny41MjhDMjEwLjY3MSAxNDcuNjkxIDIwOS42OTUgMTQ2LjYzNCAyMDguNTk4IDE0NS4wMDlDMjA1LjMwNyAxNDAuMjE0IDIwMS44NTMgMTM4LjE0MSAxOTYuNTcgMTM3Ljc3NkMxODguODA5IDEzNy4yNDcgMTgzLjgxMSAxNDEuMzExIDE4My44NTIgMTQ4LjA5N0MxODMuODUyIDE1MC4wODggMTg0LjEzNiAxNTEuMjY2IDE4NC45NDkgMTUyLjg5MkMxODYuNjU1IDE1Ni40MjcgMTg5LjgyNSAxNTguNTQgMTk5Ljc4MSAxNjIuODQ3QzIxOC4xMDcgMTcwLjczMSAyMjUuOTQ5IDE3NS45MzIgMjMwLjgyNiAxODMuMzI3QzIzNi4yNzEgMTkxLjU3NiAyMzcuNDkgMjA0Ljc0MiAyMzMuNzkyIDIxNC41MzVDMjI5LjcyOSAyMjUuMTgxIDIxOS42NTEgMjMyLjQxNCAyMDUuNDY5IDIzNC44MTJDMjAxLjA4MSAyMzUuNTg0IDE5MC42NzggMjM1LjQ2MiAxODUuOTY1IDIzNC42MDlDMTc1LjY4NCAyMzIuNzggMTY1LjkzMiAyMjcuNzAxIDE1OS45MTggMjIxLjAzN0MxNTcuNTYxIDIxOC40MzYgMTUyLjk2OSAyMTEuNjUgMTUzLjI1NCAyMTEuMTYyQzE1My4zNzUgMjExIDE1NC40MzIgMjEwLjM1IDE1NS42MSAyMDkuNjU5QzE1Ni43NDggMjA5LjAwOSAxNjEuMDU2IDIwNi41MyAxNjUuMTE5IDIwNC4xNzNMMTcyLjQ3NCAxOTkuOTA2TDE3NC4wMTggMjAyLjE4MkMxNzYuMTcyIDIwNS40NzMgMTgwLjg4NSAyMDkuOTg0IDE4My43MyAyMTEuNDg3QzE5MS44OTcgMjE1Ljc5NSAyMDMuMTEzIDIxNS4xODUgMjA4LjYzOSAyMTAuMjI4QzIxMC45OTYgMjA4LjA3NCAyMTEuOTcxIDIwNS44MzkgMjExLjk3MSAyMDIuNTQ4QzIxMS45NzEgMTk5LjU4MSAyMTEuNjA1IDE5OC4yODEgMjEwLjA2MSAxOTYuMDQ2QzIwOC4wNyAxOTMuMjAyIDIwNC4wMDcgMTkwLjgwNCAxOTIuNDY2IDE4NS44MDZDMTc5LjI2IDE4MC4xMTcgMTczLjU3MSAxNzYuNTgyIDE2OC4zNyAxNzAuOTc0QzE2NS4zNjMgMTY3LjcyNCAxNjIuNTE4IDE2Mi41MjIgMTYxLjM0IDE1OC4xNzRDMTYwLjM2NSAxNTQuNTU4IDE2MC4xMjEgMTQ1LjQ5NiAxNjAuODkzIDE0MS44MzlDMTYzLjYxNSAxMjkuMDggMTczLjI0NiAxMjAuMTgxIDE4Ny4xNDMgMTE3LjUzOUMxOTEuNjU0IDExNi42ODYgMjAyLjEzNyAxMTcuMDExIDIwNi41NjcgMTE4LjEwOFoiLz48L3N2Zz4KICAgICAgICA8L2c+CiAgICAgICAgCiAgPC9zdmc+CiAg"/>
     <text class="lbl" x="87" y="138">TypeScript</text>
   </g>
   <g class="cell" style="animation-delay:0.14s">
     <rect class="frame" x="168" y="18" width="138" height="138" rx="14"/>
-    <image class="ico" x="207" y="38" width="60" height="60" href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiNGMERCNEYiLz4KPHBhdGggZD0iTTY3LjMxMTcgMjEzLjkzMkw4Ni45MDI3IDIwMi4wNzZDOTAuNjgyMSAyMDguNzc3IDk0LjEyMDIgMjE0LjQ0NyAxMDIuMzY3IDIxNC40NDdDMTEwLjI3MiAyMTQuNDQ3IDExNS4yNTYgMjExLjM1NSAxMTUuMjU2IDE5OS4zMjdWMTE3LjUyOUgxMzkuMzE0VjE5OS42NjdDMTM5LjMxNCAyMjQuNTg0IDEyNC43MDggMjM1LjkyNiAxMDMuMzk4IDIzNS45MjZDODQuMTUzMyAyMzUuOTI2IDcyLjk4MTkgMjI1Ljk1OSA2Ny4zMTEzIDIxMy45MyIgZmlsbD0iIzMyMzMzMCIvPgo8cGF0aCBkPSJNMTUyLjM4MSAyMTEuMzU0TDE3MS45NjkgMjAwLjAxM0MxNzcuMTI2IDIwOC40MzQgMTgzLjgyOCAyMTQuNjIgMTk1LjY4NCAyMTQuNjJDMjA1LjY1MyAyMTQuNjIgMjEyLjAwOSAyMDkuNjM2IDIxMi4wMDkgMjAyLjc2MkMyMTIuMDA5IDE5NC41MTQgMjA1LjQ3OSAxOTEuNTkyIDE5NC40ODEgMTg2Ljc4MkwxODguNDY4IDE4NC4yMDNDMTcxLjExMSAxNzYuODE1IDE1OS41OTcgMTY3LjUzNSAxNTkuNTk3IDE0Ny45NDVDMTU5LjU5NyAxMjkuOTAxIDE3My4zNDUgMTE2LjE1MyAxOTQuODI2IDExNi4xNTNDMjEwLjEyIDExNi4xNTMgMjIxLjExOCAxMjEuNDgxIDIyOS4wMjIgMTM1LjRMMjEwLjI5MSAxNDcuNDI5QzIwNi4xNjYgMTQwLjA0IDIwMS43IDEzNy4xMTkgMTk0LjgyNiAxMzcuMTE5QzE4Ny43OCAxMzcuMTE5IDE4My4zMTIgMTQxLjU4NyAxODMuMzEyIDE0Ny40MjlDMTgzLjMxMiAxNTQuNjQ2IDE4Ny43OCAxNTcuNTY4IDE5OC4wOSAxNjIuMDM3TDIwNC4xMDQgMTY0LjYxNEMyMjQuNTUzIDE3My4zNzkgMjM2LjA2NyAxODIuMzEzIDIzNi4wNjcgMjAyLjQxOEMyMzYuMDY3IDIyNC4wNzIgMjE5LjA1NSAyMzUuOTI4IDE5Ni4yIDIzNS45MjhDMTczLjg2MSAyMzUuOTI4IDE1OS40MjYgMjI1LjI3NCAxNTIuMzgxIDIxMS4zNTQiIGZpbGw9IiMzMjMzMzAiLz4KPC9zdmc+CgogICAgICAgIDwvZz4KICAgICAgICAKICA8L3N2Zz4KICA="/>
+    <svg class="ico" x="207" y="38" width="60" height="60" viewBox="0 0 100 100" overflow="visible">
+      <defs>
+        <style>
+          @keyframes js-stopper-ani {
+            50% {
+              transform: rotate(0);
+            }
+            60% {
+              transform: rotate(-90deg);
+            }
+            90% {
+              transform: rotate(-90deg);
+            }
+            100% {
+              transform: rotate(0);
+            }
+          }
+          @keyframes js-pool-ani {
+            50% {
+              transform: scale(0);
+            }
+            100% {
+              transform: scale(1);
+            }
+          }
+          @keyframes js-wave-ani {
+            0% {
+              x: 0px;
+            }
+            100% {
+              x: -100px;
+            }
+          }
+
+          @keyframes js-fill-ani {
+            50% {
+              y: 18px;
+            }
+            100% {
+              y: 80px;
+            }
+          }
+
+          #js-icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100px;
+            height: 100px;
+          }
+          .js-js-cup {
+            fill: transparent;
+            stroke: #f7df1f;
+          }
+          .js-js-text {
+            font-size: 30px;
+            font-weight: bold;
+          }
+          .js-js-stopper {
+            transform-origin: 75px 65px;
+            animation: js-stopper-ani 5s infinite;
+          }
+          .js-js-pool {
+            transform: scale(0);
+            transform-origin: 75px 75px;
+            animation: js-pool-ani 5s infinite;
+          }
+          .js-wave-box {
+            animation: js-wave-ani 5s infinite linear, js-fill-ani 5s infinite alternate;
+          }
+        </style>
+        <pattern id="js-wave" width="0.1" height="1">
+          <path
+            fill=" #f7df1f"
+            d="M 0 10 C 3 12, 5 15, 14 10 C 17 9, 20 5, 30 10 L 30 60 L 0 60 z"
+          />
+        </pattern>
+        <mask id="js-wave-mask">
+          <rect x="25" y="25" width="50" height="50" fill="white"></rect>
+        </mask>
+      </defs>
+      <ellipse class="js-js-pool" cx="75" cy="75" rx="25" ry="10" fill="#f7df1f"></ellipse>
+      <path class="js-js-cup" d="M 25 25 L 25 75 L 75 75 L 75 25 "></path>
+      <g class="js-js-stopper">
+        <rect x="75" y="65" width="1" height="5"></rect>
+        <rect x="75" y="70" width="3" height="5"></rect>
+      </g>
+      <rect
+        class="js-wave-box"
+        mask="url(#js-wave-mask)"
+        fill="url(#js-wave)"
+        x="0"
+        y="80"
+        width="300"
+        height="100"
+      ></rect>
+      <text class="js-js-text" x="45" y="70" fill="white">JS</text>
+    </svg>
     <text class="lbl" x="237" y="138">JavaScript</text>
   </g>
   <g class="cell" style="animation-delay:0.28s">
@@ -102,12 +200,172 @@
   </g>
   <g class="cell" style="animation-delay:2.24s">
     <rect class="frame" x="618" y="318" width="138" height="138" rx="14"/>
-    <image class="ico" x="657" y="338" width="60" height="60" href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiMyNDI5MzgiLz4KPHBhdGggZD0iTTEyOC4wMDEgMzBDNzIuNzc5MSAzMCAyOCA3NC43NzA4IDI4IDEzMC4wMDFDMjggMTc0LjE4NCA1Ni42NTMzIDIxMS42NjggOTYuMzg2NyAyMjQuODkxQzEwMS4zODQgMjI1LjgxNyAxMDMuMjE5IDIyMi43MjIgMTAzLjIxOSAyMjAuMDgxQzEwMy4yMTkgMjE3LjY5NiAxMDMuMTI2IDIwOS44MTkgMTAzLjA4MyAyMDEuNDYzQzc1LjI2MzEgMjA3LjUxMiA2OS4zOTI3IDE4OS42NjQgNjkuMzkyNyAxODkuNjY0QzY0Ljg0MzcgMTc4LjEwNSA1OC4yODk0IDE3NS4wMzIgNTguMjg5NCAxNzUuMDMyQzQ5LjIxNjMgMTY4LjgyNSA1OC45NzMzIDE2OC45NTMgNTguOTczMyAxNjguOTUzQzY5LjAxNTEgMTY5LjY1OCA3NC4zMDI2IDE3OS4yNTggNzQuMzAyNiAxNzkuMjU4QzgzLjIyMTcgMTk0LjU0NiA5Ny42OTY1IDE5MC4xMjYgMTAzLjQwMyAxODcuNTcxQzEwNC4zMDEgMTgxLjEwNyAxMDYuODkyIDE3Ni42OTYgMTA5Ljc1MiAxNzQuMTk5Qzg3LjU0MDUgMTcxLjY3IDY0LjE5MTMgMTYzLjA5NSA2NC4xOTEzIDEyNC43NzhDNjQuMTkxMyAxMTMuODYgNjguMDk3NyAxMDQuOTM5IDc0LjQ5NDcgOTcuOTM2MkM3My40NTY0IDk1LjQxNzUgNzAuMDMzNSA4NS4yNDY1IDc1LjQ2MzUgNzEuNDcyMkM3NS40NjM1IDcxLjQ3MjIgODMuODYwOSA2OC43ODQ1IDEwMi45NzEgODEuNzIyNkMxMTAuOTQ4IDc5LjUwNjkgMTE5LjUwMiA3OC4zOTU4IDEyOC4wMDEgNzguMzU3N0MxMzYuNDk5IDc4LjM5NTggMTQ1LjA2MSA3OS41MDY5IDE1My4wNTIgODEuNzIyNkMxNzIuMTM5IDY4Ljc4NDUgMTgwLjUyNSA3MS40NzIyIDE4MC41MjUgNzEuNDcyMkMxODUuOTY4IDg1LjI0NjUgMTgyLjU0NCA5NS40MTc1IDE4MS41MDUgOTcuOTM2MkMxODcuOTE3IDEwNC45MzkgMTkxLjc5NyAxMTMuODYgMTkxLjc5NyAxMjQuNzc4QzE5MS43OTcgMTYzLjE4NyAxNjguNDAzIDE3MS42NDQgMTQ2LjEzNSAxNzQuMTE5QzE0OS43MjIgMTc3LjIyMyAxNTIuOTE4IDE4My4zMDggMTUyLjkxOCAxOTIuNjM4QzE1Mi45MTggMjA2LjAxOCAxNTIuODAyIDIxNi43ODcgMTUyLjgwMiAyMjAuMDgxQzE1Mi44MDIgMjIyLjc0MiAxNTQuNjAyIDIyNS44NiAxNTkuNjcxIDIyNC44NzhDMTk5LjM4MyAyMTEuNjQgMjI4IDE3NC4xNjkgMjI4IDEzMC4wMDFDMjI4IDc0Ljc3MDggMTgzLjIyNyAzMCAxMjguMDAxIDMwWk02NS40NTM2IDE3Mi40NTNDNjUuMjMzMyAxNzIuOTUgNjQuNDUxNyAxNzMuMDk5IDYzLjczOTYgMTcyLjc1OEM2My4wMTQzIDE3Mi40MzIgNjIuNjA2OSAxNzEuNzU0IDYyLjg0MjEgMTcxLjI1NkM2My4wNTc0IDE3MC43NDQgNjMuODQwNiAxNzAuNjAyIDY0LjU2NDMgMTcwLjk0NUM2NS4yOTEzIDE3MS4yNzEgNjUuNzA1MyAxNzEuOTU1IDY1LjQ1MzYgMTcyLjQ1M1pNNzAuMzcyNSAxNzYuODQyQzY5Ljg5NTYgMTc3LjI4NSA2OC45NjMzIDE3Ny4wNzkgNjguMzMwNyAxNzYuMzhDNjcuNjc2NiAxNzUuNjgzIDY3LjU1NCAxNzQuNzUxIDY4LjAzNzYgMTc0LjMwMkM2OC41Mjk0IDE3My44NiA2OS40MzM2IDE3NC4wNjcgNzAuMDg5MyAxNzQuNzY0QzcwLjc0MzQgMTc1LjQ3IDcwLjg3MDkgMTc2LjM5NSA3MC4zNzI1IDE3Ni44NDJaTTczLjc0NzEgMTgyLjQ1OEM3My4xMzQ0IDE4Mi44ODQgNzIuMTMyNSAxODIuNDg1IDcxLjUxMzIgMTgxLjU5NUM3MC45MDA0IDE4MC43MDYgNzAuOTAwNCAxNzkuNjQgNzEuNTI2NCAxNzkuMjEyQzcyLjE0NzQgMTc4Ljc4NSA3My4xMzQ0IDE3OS4xNjkgNzMuNzYyIDE4MC4wNTJDNzQuMzczIDE4MC45NTYgNzQuMzczIDE4Mi4wMjMgNzMuNzQ3MSAxODIuNDU4Wk03OS40NTQyIDE4OC45NjJDNzguOTA2MSAxODkuNTY2IDc3LjczODYgMTg5LjQwNCA3Ni44ODQxIDE4OC41NzlDNzYuMDA5OCAxODcuNzczIDc1Ljc2NjMgMTg2LjYyOSA3Ni4zMTYxIDE4Ni4wMjRDNzYuODcwOSAxODUuNDE4IDc4LjA0NSAxODUuNTg5IDc4LjkwNjEgMTg2LjQwN0M3OS43NzM4IDE4Ny4yMTEgODAuMDM4NyAxODguMzY0IDc5LjQ1NDIgMTg4Ljk2MlpNODYuODMwMSAxOTEuMTU3Qzg2LjU4ODMgMTkxLjk0MSA4NS40NjM5IDE5Mi4yOTcgODQuMzMxMiAxOTEuOTY0QzgzLjIwMDIgMTkxLjYyMSA4Mi40NiAxOTAuNzA0IDgyLjY4ODUgMTg5LjkxMkM4Mi45MjM3IDE4OS4xMjQgODQuMDUzIDE4OC43NTMgODUuMTk0IDE4OS4xMDlDODYuMzIzNCAxODkuNDUgODcuMDY1MiAxOTAuMzYxIDg2LjgzMDEgMTkxLjE1N1pNOTUuMjI0MiAxOTIuMDg5Qzk1LjI1MjMgMTkyLjkxMyA5NC4yOTE5IDE5My41OTcgOTMuMTAyOSAxOTMuNjEyQzkxLjkwNzMgMTkzLjYzOSA5MC45NDAyIDE5Mi45NzEgOTAuOTI2OSAxOTIuMTZDOTAuOTI2OSAxOTEuMzI3IDkxLjg2NTkgMTkwLjY1IDkzLjA2MTUgMTkwLjYzQzk0LjI1MDUgMTkwLjYwNyA5NS4yMjQyIDE5MS4yNjkgOTUuMjI0MiAxOTIuMDg5Wk0xMDMuNDcgMTkxLjc3M0MxMDMuNjEzIDE5Mi41NzcgMTAyLjc4NyAxOTMuNDA0IDEwMS42MDYgMTkzLjYyNEMxMDAuNDQ1IDE5My44MzYgOTkuMzcwMiAxOTMuMzM5IDk5LjIyMjkgMTkyLjU0MUM5OS4wNzg4IDE5MS43MTYgOTkuOTIgMTkwLjg5IDEwMS4wNzkgMTkwLjY3NkMxMDIuMjYyIDE5MC40NzEgMTAzLjMyIDE5MC45NTUgMTAzLjQ3IDE5MS43NzNaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4KCiAgICAgICAgPC9nPgogICAgICAgIAogIDwvc3ZnPgogIA=="/>
+    <svg class="ico" x="657" y="338" width="60" height="60" viewBox="0 0 100 100" overflow="visible">
+  <defs>
+    <style>
+      @keyframes gh-draw-ani {
+        50% {
+          stroke-dashoffset: 0;
+        }
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+      @keyframes gh-fill-ani {
+        50% {
+          stroke-dashoffset: 220;
+        }
+        80%, 100% {
+          stroke-dashoffset: 0;
+        }
+      }
+      #github-icon {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100px;
+        height: 100px;
+      }
+      .gh-github {
+        transform: scale(3) translate(4.7px, 4.7px);
+        stroke: #ffffff;
+        fill: transparent;
+        stroke-width: 0.5;
+        stroke-dasharray: 140;
+        stroke-dashoffset: 140;
+        animation: gh-draw-ani 5s linear infinite;
+      }
+      .gh-github-mask {
+        transform: scale(3) translate(4.7px, 4.7px);
+        stroke: black;
+        stroke-width: 0.4;
+        fill: white;
+      }
+      .gh-circle-fill {
+        transform-origin: 50px 50px;
+        transform: rotate(90deg);
+        stroke: #ffffff;
+        stroke-width: 35;
+        fill: transparent;
+        stroke-dasharray: 220;
+        stroke-dashoffset: 220;
+        animation: gh-fill-ani 5s linear infinite;
+      }
+      .gh-circle-outline {
+         stroke: black;
+         fill: white;
+      }
+    </style>
+    <mask id="gh-circle-fill-mask">
+      <path class="gh-github-mask" fill="white" d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+    </mask>
+    <mask id="gh-circle-outline-mask">
+      <circle class="gh-circle-outline" cx="50" cy="50" r="34.5"></circle>
+    </mask>
+  </defs>
+  <g mask="url(#gh-circle-outline-mask)">
+    <path class="gh-github" d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+  </g>
+  <g mask="url(#gh-circle-fill-mask)">
+    <circle class="gh-circle-fill" cx="50" cy="50" r="30" stroke="#ffffff"></circle>
+  </g>
+  
+</svg>
     <text class="lbl" x="687" y="438">GitHub</text>
   </g>
   <g class="cell" style="animation-delay:2.38s">
     <rect class="frame" x="768" y="318" width="138" height="138" rx="14"/>
     <image class="ico" x="807" y="338" width="60" height="60" href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMyNDI5MzgiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiM4MUNEMzkiIGQ9Ik0xMTkuODc4IDMxLjExNjRDMTI0Ljc5NyAyOC4zMDA4IDEzMS4yMDMgMjguMjg4MyAxMzYuMTE3IDMxLjExNjRDMTYwLjgzOSA0NS4wODU1IDE4NS41NjkgNTkuMDMzMiAyMTAuMjg3IDczLjAxMDhDMjE0LjkzNyA3NS42Mjk2IDIxOC4wNDYgODAuODAzOCAyMTcuOTk5IDg2LjE2MDhWMTcwLjIwNkMyMTguMDM0IDE3NS43ODUgMjE0LjYxNyAxODEuMDgzIDIwOS43MTIgMTgzLjY0MkMxODUuMDcxIDE5Ny41MzUgMTYwLjQ0MiAyMTEuNDQ0IDEzNS44MDUgMjI1LjMzN0MxMzAuNzg2IDIyOC4yMDcgMTI0LjI1MSAyMjcuOTg2IDExOS4zODcgMjI0Ljg4QzExMiAyMjAuNTk4IDEwNC42IDIxNi4zMzYgOTcuMjEyMSAyMTIuMDU4Qzk1LjcwMjIgMjExLjE1OCA5NC4wMDA0IDIxMC40NDIgOTIuOTM0NSAyMDguOTc4QzkzLjg3NjYgMjA3LjcwOCA5NS41NjE4IDIwNy41NSA5Ni45MzA5IDIwNi45OTVDMTAwLjAxNCAyMDYuMDE0IDEwMi44NDcgMjA0LjQ0IDEwNS42NzkgMjAyLjkxM0MxMDYuMzk2IDIwMi40MjMgMTA3LjI3IDIwMi42MTEgMTA3Ljk1NyAyMDMuMDQ5QzExNC4yNzQgMjA2LjY3MSAxMjAuNTM2IDIxMC4zOTkgMTI2Ljg3NCAyMTMuOTg2QzEyOC4yMjYgMjE0Ljc2NyAxMjkuNTk1IDIxMy43MyAxMzAuNzUxIDIxMy4wODZDMTU0LjkzMSAxOTkuNDE5IDE3OS4xNDEgMTg1LjgwNSAyMDMuMzE4IDE3Mi4xMzRDMjA0LjIxNCAxNzEuNzAzIDIwNC43MDkgMTcwLjc1MiAyMDQuNjM2IDE2OS43NzFDMjA0LjY1MyAxNDIuMDQ2IDIwNC42NCAxMTQuMzE3IDIwNC42NDUgODYuNTkxOEMyMDQuNzQ3IDg1LjQ3ODUgMjA0LjEwMyA4NC40NTUgMjAzLjA5NiA4My45OTlDMTc4LjU0MSA3MC4xNzAyIDE1My45OTcgNTYuMzIwNSAxMjkuNDQ2IDQyLjQ4ODJDMTI4LjU3NSA0MS44ODkzIDEyNy40MjYgNDEuODg3OCAxMjYuNTU0IDQyLjQ4MzdDMTAyLjAwMiA1Ni4zMjA1IDc3LjQ2MzggNzAuMTgzMiA1Mi45MTI0IDg0LjAxMUM1MS45MDkyIDg0LjQ2NzUgNTEuMjM2IDg1LjQ3NDUgNTEuMzU1NCA4Ni41OTE4QzUxLjM1OTYgMTE0LjMxNyA1MS4zNTU0IDE0Mi4wNDYgNTEuMzU1NCAxNjkuNzc1QzUxLjI2ODIgMTcwLjc1NiA1MS44MDEgMTcxLjY4NyA1Mi42OTA2IDE3Mi4xMDlDNTkuMjQyMiAxNzUuODI0IDY1LjgwMjQgMTc5LjUxMyA3Mi4zNTgyIDE4My4yMTZDNzYuMDUxNiAxODUuMjAzIDgwLjU4NjMgMTg2LjM4NSA4NC42NTU1IDE4NC44NjJDODguMjQ2MyAxODMuNTc0IDkwLjc2MzMgMTc5LjkwOSA5MC42OTQ4IDE3Ni4wOTdDOTAuNzI4OCAxNDguNTM0IDkwLjY3NzggMTIwLjk2NyA5MC43MjAzIDkzLjQwNzhDOTAuNjMwOSA5Mi4xODQxIDkxLjc5MTIgOTEuMTczMSA5Mi45ODEgOTEuMjg4NUM5Ni4xMjkyIDkxLjI2NyA5OS4yODEgOTEuMjQ2MSAxMDIuNDI5IDkxLjI5N0MxMDMuNzQzIDkxLjI2NyAxMDQuNjQ3IDkyLjU4NDcgMTA0LjQ4NSA5My44MTc0QzEwNC40NzIgMTIxLjU1NSAxMDQuNTE5IDE0OS4yOTMgMTA0LjQ2NCAxNzcuMDNDMTA0LjQ3MiAxODQuNDIzIDEwMS40MzUgMTkyLjQ2NyA5NC41OTczIDE5Ni4wODRDODYuMTczNyAyMDAuNDQ3IDc1Ljc2MTkgMTk5LjUyMiA2Ny40Mzk5IDE5NS4zMzhDNjAuMjM1NSAxOTEuNzQyIDUzLjM2MDMgMTg3LjQ5OCA0Ni4yODM4IDE4My42NDZDNDEuMzY2MSAxODEuMTAxIDM3Ljk2NiAxNzUuNzgyIDM4LjAwMDYgMTcwLjIwN1Y4Ni4xNjA4QzM3Ljk0OSA4MC42OTI5IDQxLjE4MjUgNzUuNDI0OCA0NS45NzY0IDcyLjg0NDVDNzAuNjEzMyA1OC45NDA4IDk1LjI0NjEgNDUuMDI2MSAxMTkuODc4IDMxLjExNjRaIi8+PHBhdGggZmlsbD0iIzgxQ0QzOSIgZD0iTTE0MS4zNzIgODkuMzM1MUMxNTIuMTE3IDg4LjY0MzMgMTYzLjYyIDg4LjkyNTUgMTczLjI4OSA5NC4yMTg1QzE4MC43NzYgOTguMjc1NCAxODQuOTI2IDEwNi43ODkgMTg1LjA1OCAxMTUuMTA2QzE4NC44NDkgMTE2LjIyNyAxODMuNjc2IDExNi44NDYgMTgyLjYwNSAxMTYuNzY5QzE3OS40ODggMTE2Ljc2NSAxNzYuMzY5IDExNi44MTIgMTczLjI1MiAxMTYuNzQ4QzE3MS45MjkgMTE2Ljc5OSAxNzEuMTYxIDExNS41OCAxNzAuOTk1IDExNC40MTFDMTcwLjA5OSAxMTAuNDMxIDE2Ny45MjggMTA2LjQ5IDE2NC4xODMgMTA0LjU3QzE1OC40MzMgMTAxLjY5MiAxNTEuNzY3IDEwMS44MzcgMTQ1LjQ5NyAxMDEuODk3QzE0MC45MiAxMDIuMTM5IDEzNS45OTggMTAyLjUzNiAxMzIuMTIgMTA1LjIyN0MxMjkuMTQzIDEwNy4yNjYgMTI4LjIzOSAxMTEuMzgyIDEyOS4zMDEgMTE0LjY5N0MxMzAuMzAzIDExNy4wNzcgMTMzLjA1IDExNy44NDUgMTM1LjI5OSAxMTguNTUzQzE0OC4yNDggMTIxLjk0IDE2MS45NyAxMjEuNjAyIDE3NC42NzIgMTI2LjA1OUMxNzkuOTMxIDEyNy44NzYgMTg1LjA3NSAxMzEuNDA5IDE4Ni44NzUgMTM2LjkxNUMxODkuMjMgMTQ0LjI5NSAxODguMTk4IDE1My4xMTUgMTgyLjk0NyAxNTkuMDM5QzE3OC42ODkgMTYzLjkxNCAxNzIuNDg4IDE2Ni41NjggMTY2LjMwMyAxNjguMDA5QzE1OC4wNzUgMTY5Ljg0NCAxNDkuNTM2IDE2OS44OTEgMTQxLjE4IDE2OS4wNzZDMTMzLjMyMyAxNjguMTggMTI1LjE0NiAxNjYuMTE2IDExOS4wODEgMTYwLjc2M0MxMTMuODk0IDE1Ni4yNTkgMTExLjM2MSAxNDkuMjQxIDExMS42MTIgMTQyLjQ2OUMxMTEuNjcyIDE0MS4zMjUgMTEyLjgxMSAxNDAuNTI3IDExMy45MDcgMTQwLjYyMUMxMTcuMDQ2IDE0MC41OTYgMTIwLjE4NiAxNDAuNTg3IDEyMy4zMjUgMTQwLjYyNkMxMjQuNTggMTQwLjUzNiAxMjUuNTA5IDE0MS42MiAxMjUuNTc0IDE0Mi44MDJDMTI2LjE1MiAxNDYuNTkzIDEyNy41NzcgMTUwLjU3MyAxMzAuODg0IDE1Mi44MkMxMzcuMjY0IDE1Ni45MzcgMTQ1LjI3MSAxNTYuNjU1IDE1Mi41NzcgMTU2Ljc3QzE1OC42MyAxNTYuNTAyIDE2NS40MjUgMTU2LjQyMSAxNzAuMzY0IDE1Mi40MkMxNzIuOTcgMTUwLjEzOCAxNzMuNzQyIDE0Ni4zMiAxNzMuMDM4IDE0My4wMzZDMTcyLjI3NSAxNDAuMjYzIDE2OS4zNzQgMTM4Ljk3MSAxNjYuODgzIDEzOC4xMjZDMTU0LjEgMTM0LjA4MyAxNDAuMjI0IDEzNS41NSAxMjcuNTY1IDEzMC45NzdDMTIyLjQyNSAxMjkuMTYxIDExNy40NTUgMTI1LjcyNyAxMTUuNDgxIDEyMC40NDdDMTEyLjcyNiAxMTIuOTc0IDExMy45ODggMTAzLjczIDExOS43ODkgOTguMDA2MUMxMjUuNDQ1IDkyLjMxMiAxMzMuNjA5IDkwLjExOTIgMTQxLjM3MiA4OS4zMzQ2Vjg5LjMzNTEiLz48L3N2Zz4KICAgICAgICA8L2c+CiAgICAgICAgCiAgPC9zdmc+CiAg"/>
     <text class="lbl" x="837" y="438">Node.js</text>
+  </g>
+  <g class="cell" style="animation-delay:2.52s">
+    <rect class="frame" x="18" y="468" width="138" height="138" rx="14"/>
+    <svg class="ico" x="57" y="488" width="60" height="60" viewBox="0 0 48 48" overflow="visible">
+  <defs>
+    <style>
+      @keyframes my-mysql-ani {
+        100% { transform: rotate(-360deg); }
+      }
+      #my-mysql-whale {
+        animation: my-mysql-ani 5s linear infinite;
+        transform-origin: 22px 28px;
+      }
+    </style>
+    <mask id="my-mysql-mask">
+      <rect x="0" y="0" width="48" height="26.5" fill="white" />
+    </mask>
+  </defs>
+  <path fill="#00796b" d="M0.002,35.041h1.92v-7.085l2.667,6.057c0.329,0.755,0.779,1.022,1.662,1.022 s1.315-0.267,1.644-1.022l2.667-5.902v6.93h1.92v-7.258c0-0.697-0.277-1.035-0.849-1.209c-1.367-0.43-2.285-0.059-2.7,0.872 l-2.735,6.16l-2.649-6.16c-0.398-0.93-1.332-1.302-2.7-0.872C0.277,26.748,0,27.085,0,27.782v7.258H0.002z"/>
+  <path fill="#00796b" d="M13.441,29.281h1.92v4.055c-0.015,0.2,0.064,0.731,0.99,0.745c0.472,0.008,2.821,0,2.85,0v-4.8h1.92 c0.008,0,0,5.968,0,5.993c0.01,1.472-1.828,1.662-2.673,1.687h-5.006v-0.96c0.01,0,4.787,0.001,4.801,0 c1.088-0.115,0.959-0.714,0.959-0.896v-0.064H16.19c-1.67-0.015-2.735-0.751-2.747-1.59C13.441,33.373,13.479,29.317,13.441,29.281 z"/>
+  <path fill="#f57f17" d="M22.081,35.041h4.807c0.63,0,1.242-0.132,1.728-0.36c0.81-0.372,1.144-0.875,1.144-1.536v-1.368 c0-1.476-1.83-1.536-2.88-1.536h-1.92c-0.755,0-0.87-0.456-0.96-0.96v-0.96c0.09-0.384,0.258-0.9,0.923-0.96 c0.773,0,4.836,0,4.836,0v-0.96h-4.566c-0.755,0-3.114,0.09-3.114,1.92v1.187c0,0.84,0.738,1.524,2.34,1.692 c0.18,0.012,0.36,0.024,0.539,0.024c0,0,1.866-0.036,1.92-0.024c1.08,0,0.96,0.84,0.96,0.96v0.96c0,0.132-0.03,0.96-0.971,0.96 c-0.072,0-4.789,0-4.789,0V35.041z"/>
+  <path fill="#f57f17" d="M40.32,33.08c0,1.159,0.655,1.809,2.392,1.939c0.162,0.011,0.325,0.021,0.488,0.021H48v-0.96h-4.435 c-0.991,0-1.325-0.416-1.325-1.011v-6.669h-1.92V33.08z"/>
+  <path fill="#f57f17" d="M30.704,33.121v-4.8c0-1.02,0.5-1.724,1.916-1.92h0.672h3.447h0.525 c1.416,0.196,2.08,0.899,2.08,1.92v4.782c0,0.827-0.215,1.271-0.916,1.559L39.916,36h-2.16l-1.07-0.96h-1.257l-2.136,0.012 c-0.309,0-0.635-0.043-0.993-0.141C31.226,34.618,30.704,34.054,30.704,33.121z M32.624,33.121c0.098,0.467,0.473,0.96,1.14,0.96 h1.864l-1.068-0.96h2.175l0.519,0.482c0,0,0.186-0.152,0.186-0.482c0-0.33-0.016-4.8-0.016-4.8c-0.098-0.434-0.538-0.96-1.188-0.96 h-2.471c-0.749,0-1.14,0.548-1.14,1.058L32.624,33.121L32.624,33.121z"/>
+  <g mask="url(#my-mysql-mask)">
+  <g id="my-mysql-whale">
+    <path fill="#00796b" d="M46.199,25.389c-1.031-0.028-1.818,0.068-2.491,0.351c-0.191,0.081-0.496,0.083-0.528,0.323 c0.105,0.11,0.121,0.275,0.205,0.41c0.16,0.26,0.432,0.609,0.674,0.791c0.265,0.2,0.538,0.414,0.821,0.587 c0.504,0.307,1.067,0.483,1.553,0.791c0.286,0.181,0.57,0.411,0.85,0.615c0.138,0.102,0.23,0.259,0.41,0.323 c0-0.01,0-0.019,0-0.029c-0.094-0.12-0.119-0.285-0.205-0.411c-0.127-0.127-0.254-0.254-0.381-0.381 c-0.372-0.494-0.846-0.929-1.348-1.289c-0.401-0.288-1.298-0.677-1.466-1.143c-0.01-0.01-0.019-0.019-0.03-0.03 c0.284-0.032,0.617-0.135,0.879-0.205c0.441-0.118,0.834-0.087,1.289-0.205c0.205-0.059,0.41-0.117,0.615-0.176 c0-0.039,0-0.078,0-0.117c-0.23-0.236-0.395-0.548-0.645-0.762c-0.657-0.559-1.373-1.117-2.11-1.583 c-0.409-0.258-0.915-0.426-1.348-0.645c-0.146-0.074-0.402-0.112-0.498-0.234c-0.228-0.29-0.351-0.659-0.527-0.996 c-0.368-0.708-0.73-1.482-1.055-2.227c-0.223-0.508-0.368-1.01-0.645-1.466c-1.331-2.188-2.764-3.509-4.982-4.807 c-0.472-0.276-1.041-0.385-1.642-0.528c-0.323-0.019-0.645-0.039-0.968-0.059c-0.197-0.083-0.401-0.323-0.587-0.44 c-0.735-0.465-2.621-1.475-3.165-0.147c-0.344,0.838,0.514,1.656,0.821,2.081c0.215,0.298,0.491,0.632,0.645,0.968 c0.101,0.22,0.119,0.441,0.205,0.674c0.213,0.574,0.55,1.228,0.826,1.759c0.139,0.269,0.293,0.551,0.469,0.791 c0.108,0.147,0.293,0.212,0.323,0.44c-0.181,0.253-0.191,0.646-0.293,0.968c-0.458,1.445-0.285,3.24,0.381,4.308 c0.204,0.328,0.686,1.032,1.348,0.762c0.579-0.236,0.45-0.967,0.615-1.612c0.037-0.146,0.014-0.253,0.088-0.351 c0,0.01,0,0.019,0,0.03c0.176,0.351,0.351,0.704,0.528,1.055c0.391,0.629,1.084,1.286,1.67,1.73 c0.304,0.23,0.544,0.628,0.938,0.762c0-0.01,0-0.019,0-0.03c-0.01,0-0.019,0-0.03,0c-0.076-0.119-0.196-0.168-0.293-0.264 c-0.229-0.225-0.485-0.504-0.674-0.762c-0.534-0.725-1.006-1.519-1.436-2.345c-0.205-0.395-0.384-0.829-0.557-1.231 c-0.067-0.155-0.066-0.389-0.205-0.469c-0.19,0.294-0.468,0.532-0.615,0.879c-0.234,0.555-0.265,1.233-0.351,1.934 c-0.052,0.018-0.029,0.006-0.059,0.029c-0.408-0.099-0.552-0.518-0.704-0.879c-0.384-0.912-0.455-2.38-0.117-3.429 c0.087-0.272,0.482-1.127,0.323-1.378c-0.076-0.251-0.328-0.396-0.468-0.587c-0.175-0.236-0.348-0.548-0.469-0.821 c-0.314-0.711-0.612-1.538-0.943-2.257c-0.158-0.344-0.425-0.691-0.645-0.996c-0.243-0.338-0.516-0.587-0.704-0.996 c-0.067-0.145-0.158-0.378-0.059-0.528c0.032-0.101,0.076-0.143,0.176-0.176c0.17-0.132,0.643,0.043,0.821,0.117 c0.47,0.195,0.862,0.381,1.26,0.645c0.191,0.127,0.384,0.372,0.615,0.44c0.088,0,0.176,0,0.264,0 c0.413,0.095,0.875,0.03,1.26,0.147c0.682,0.207,1.292,0.529,1.846,0.879c1.69,1.067,3.071,2.585,4.016,4.397 c0.152,0.292,0.218,0.57,0.351,0.879c0.27,0.624,0.611,1.266,0.879,1.876c0.268,0.609,0.53,1.223,0.909,1.73 c0.2,0.266,0.97,0.409,1.319,0.557c0.245,0.104,0.647,0.211,0.879,0.351c0.444,0.268,0.874,0.587,1.289,0.879 C45.528,24.803,46.167,25.124,46.199,25.389z"/>
+    <path fill="#00796b" d="M33.098,14.223c-0.215-0.004-0.367,0.023-0.528,0.059c0,0.01,0,0.019,0,0.03c0.01,0,0.019,0,0.03,0 c0.103,0.21,0.283,0.347,0.41,0.528c0.098,0.205,0.195,0.41,0.293,0.615c0.01-0.01,0.019-0.019,0.029-0.029 c0.181-0.128,0.265-0.332,0.264-0.645c-0.073-0.077-0.084-0.173-0.147-0.264C33.365,14.394,33.203,14.325,33.098,14.223z"/>
+  </g>
+  </g>
+</svg>
+    <text class="lbl" x="87" y="588">MySQL</text>
+  </g>
+  <g class="cell" style="animation-delay:2.66s">
+    <rect class="frame" x="168" y="468" width="138" height="138" rx="14"/>
+    <svg class="ico" x="207" y="488" width="60" height="60" viewBox="-2 0 28 24" overflow="visible">
+  <defs>
+    <style>
+      @keyframes aws-aws-curve-ani-1 {
+        0% {stroke-dashoffset: 22;} 
+        18%, 100% {stroke-dashoffset: 0;}
+      }
+      @keyframes aws-aws-curve-ani-2 {
+        0%, 23% {stroke-dashoffset: 12;} 
+        35%, 100% {stroke-dashoffset: 0;}
+      }
+      @keyframes aws-aws-text-ani {
+        0%, 40% {opacity: 0; transform: translateY(1px)}
+        60%, 100% {opacity: 1; transform: translateY(0)}
+      }
+      #aws-aws-text {
+        animation: aws-aws-text-ani 5s linear infinite;
+      }
+      #aws-aws-curve-mask-1 {
+        fill: transparent;
+        stroke: #FF9900;
+        stroke-width: 2.7px;
+        stroke-linecap: round;
+        stroke-dasharray: 22;
+        stroke-dashoffset: -22;
+        animation: aws-aws-curve-ani-1 5s linear infinite;
+      }
+      #aws-aws-curve-mask-2 {
+        fill: transparent;
+        stroke: #FF9900;
+        stroke-width: 1.8px;
+        stroke-linecap: round;
+        stroke-dasharray: 12;
+        stroke-dashoffset: -12;
+        animation: aws-aws-curve-ani-2 5s linear infinite;
+      }  
+    </style>
+    <mask id="aws-aws-curve-mask1">
+      <path fill="white" d="M21.698 16.207c-2.626 1.94-6.442 2.969-9.722 2.969-4.598 0-8.74-1.7-11.87-4.526-.247-.223-.024-.527.272-.351 3.384 1.963 7.559 3.153 11.877 3.153 2.914 0 6.114-.607 9.06-1.852.439-.2.814.287.383.607z" />
+    </mask>
+    <mask id="aws-aws-curve-mask2">
+      <path fill="white" d="M22.792 14.961c-.336-.43-2.22-.207-3.074-.103-.255.032-.295-.192-.063-.36 1.5-1.053 3.967-.75 4.254-.399.287.36-.08 2.826-1.485 4.007-.215.184-.423.088-.327-.151.32-.79 1.03-2.57.695-2.994z"/>
+    </mask>
+  </defs>
+  <title>Amazon AWS</title>
+  <path id="aws-aws-text" fill="#FF9900" d="M6.763 10.036c0 .296.032.535.088.71.064.176.144.368.256.576.04.063.056.127.056.183 0 .08-.048.16-.152.24l-.503.335a.383.383 0 0 1-.208.072c-.08 0-.16-.04-.239-.112a2.47 2.47 0 0 1-.287-.375 6.18 6.18 0 0 1-.248-.471c-.622.734-1.405 1.101-2.347 1.101-.67 0-1.205-.191-1.596-.574-.391-.384-.59-.894-.59-1.533 0-.678.239-1.23.726-1.644.487-.415 1.133-.623 1.955-.623.272 0 .551.024.846.064.296.04.6.104.918.176v-.583c0-.607-.127-1.03-.375-1.277-.255-.248-.686-.367-1.3-.367-.28 0-.568.031-.863.103-.295.072-.583.16-.862.272a2.287 2.287 0 0 1-.28.104.488.488 0 0 1-.127.023c-.112 0-.168-.08-.168-.247v-.391c0-.128.016-.224.056-.28a.597.597 0 0 1 .224-.167c.279-.144.614-.264 1.005-.36a4.84 4.84 0 0 1 1.246-.151c.95 0 1.644.216 2.091.647.439.43.662 1.085.662 1.963v2.586zm-3.24 1.214c.263 0 .534-.048.822-.144.287-.096.543-.271.758-.51.128-.152.224-.32.272-.512.047-.191.08-.423.08-.694v-.335a6.66 6.66 0 0 0-.735-.136 6.02 6.02 0 0 0-.75-.048c-.535 0-.926.104-1.19.32-.263.215-.39.518-.39.917 0 .375.095.655.295.846.191.2.47.296.838.296zm6.41.862c-.144 0-.24-.024-.304-.08-.064-.048-.12-.16-.168-.311L7.586 5.55a1.398 1.398 0 0 1-.072-.32c0-.128.064-.2.191-.2h.783c.151 0 .255.025.31.08.065.048.113.16.16.312l1.342 5.284 1.245-5.284c.04-.16.088-.264.151-.312a.549.549 0 0 1 .32-.08h.638c.152 0 .256.025.32.08.063.048.12.16.151.312l1.261 5.348 1.381-5.348c.048-.16.104-.264.16-.312a.52.52 0 0 1 .311-.08h.743c.127 0 .2.065.2.2 0 .04-.009.08-.017.128a1.137 1.137 0 0 1-.056.2l-1.923 6.17c-.048.16-.104.263-.168.311a.51.51 0 0 1-.303.08h-.687c-.151 0-.255-.024-.32-.08-.063-.056-.119-.16-.15-.32l-1.238-5.148-1.23 5.14c-.04.16-.087.264-.15.32-.065.056-.177.08-.32.08zm10.256.215c-.415 0-.83-.048-1.229-.143-.399-.096-.71-.2-.918-.32-.128-.071-.215-.151-.247-.223a.563.563 0 0 1-.048-.224v-.407c0-.167.064-.247.183-.247.048 0 .096.008.144.024.048.016.12.048.2.08.271.12.566.215.878.279.319.064.63.096.95.096.502 0 .894-.088 1.165-.264a.86.86 0 0 0 .415-.758.777.777 0 0 0-.215-.559c-.144-.151-.416-.287-.807-.415l-1.157-.36c-.583-.183-1.014-.454-1.277-.813a1.902 1.902 0 0 1-.4-1.158c0-.335.073-.63.216-.886.144-.255.335-.479.575-.654.24-.184.51-.32.83-.415.32-.096.655-.136 1.006-.136.175 0 .359.008.535.032.183.024.35.056.518.088.16.04.312.08.455.127.144.048.256.096.336.144a.69.69 0 0 1 .24.2.43.43 0 0 1 .071.263v.375c0 .168-.064.256-.184.256a.83.83 0 0 1-.303-.096 3.652 3.652 0 0 0-1.532-.311c-.455 0-.815.071-1.062.223-.248.152-.375.383-.375.71 0 .224.08.416.24.567.159.152.454.304.877.44l1.134.358c.574.184.99.44 1.237.767.247.327.367.702.367 1.117 0 .343-.072.655-.207.926-.144.272-.336.511-.583.703-.248.2-.543.343-.886.447-.36.111-.734.167-1.142.167z" />
+  <path id="aws-aws-curve-mask-1" mask="url(#aws-aws-curve-mask1)" d="M0.7 14.5 C 8 20 15 19.8 21 16" />
+  <path id="aws-aws-curve-mask-2" mask="url(#aws-aws-curve-mask2)" d="M20 15 C 23.5 13 24 14 22.5 18" />
+</svg>
+    <text class="lbl" x="237" y="588">AWS</text>
+  </g>
+  <g class="cell" style="animation-delay:2.8s">
+    <rect class="frame" x="318" y="468" width="138" height="138" rx="14"/>
+    <svg class="ico" x="357" y="488" width="60" height="60" viewBox="0 0 32 32" overflow="visible"><path d="M28.057 6.53 17.952.532a3.8 3.8.0 0 0-3.88.0L3.965 6.53A4.03 4.03.0 0 0 2 10.002v11.996a4.03 4.03.0 0 0 1.948 3.472l10.105 5.998a3.8 3.8.0 0 0 3.88.0L28.04 25.47a4.03 4.03.0 0 0 1.948-3.472V10.002a4.03 4.03.0 0 0-1.93-3.472zM20.23 25.262v.86c-.001.108-.057.207-.148.265l-.512.293c-.08.042-.148.0-.148-.113v-.847a1.66 1.66.0 0 1-1.164.113c-.062-.042-.086-.122-.056-.2l.183-.78c.016-.066.05-.125.102-.17a.18.18.0 0 1 .05-.035.11.11.0 0 1 .08.0 1.41 1.41.0 0 0 1.059-.134 1.41 1.41.0 0 0 .79-1.21c0-.438-.24-.62-.82-.625-.734.0-1.4-.14-1.43-1.224.017-.937.452-1.817 1.186-2.4v-.872c-.001-.1.056-.2.148-.268l.494-.314c.08-.042.148.0.148.116v.872a1.61 1.61.0 0 1 .967-.116c.07.04.098.128.064.2l-.173.773c-.015.06-.045.113-.088.155-.014.015-.03.028-.05.04s-.05.008-.074.0a1.28 1.28.0 0 0-.931.152 1.17 1.17.0 0 0-.706 1.037c0 .395.208.515.907.53.935.0 1.337.423 1.348 1.362-.018.983-.467 1.908-1.228 2.53zm5.293-1.45c.012.074-.018.15-.078.194L22.9 25.558c-.024.02-.06.023-.087.007s-.04-.05-.033-.08v-.66c.003-.072.05-.136.116-.162l2.516-1.507c.024-.02.06-.023.087-.007s.04.05.033.08v.582zM27.288 9.06l-9.562 5.906c-1.193.706-2.07 1.478-2.07 2.914v11.778c0 .86.353 1.4.882 1.58a3.14 3.14.0 0 1-.53.053 3.13 3.13.0 0 1-1.595-.441L4.308 24.853C3.3 24.25 2.702 23.165 2.706 22V10.002C2.7 8.834 3.3 7.75 4.308 7.144l10.105-5.998c.98-.58 2.196-.58 3.176.0l10.105 5.998c.833.504 1.4 1.35 1.552 2.3-.328-.713-1.083-.9-1.962-.395h.003z" fill="#ffffff" fill-rule="evenodd"/></svg>
+    <text class="lbl" x="387" y="588">Bash</text>
   </g>
 </svg>
